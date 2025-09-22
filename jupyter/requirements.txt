@@ -1,0 +1,10 @@
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+pymongo
+boto3
+requests
+kafka-python
+apache-airflow-providers-apache-spark
+pyspark
