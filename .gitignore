@@ -1,0 +1,58 @@
+
+
+
+# Python cache and venv files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+results/
+
+# Airflow logs
+logs/
+airflow.cfg
+unittests.cfg
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+.python-version
+*.envrc
+
+# Docker artifacts
+Dockerfile
+docker-compose.yml
+docker-compose.override.yml
+docker-compose.*.yml
+.dockerignore
+*docker-compose*
+*.tar
+
+# macOS junk files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows junk files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/
